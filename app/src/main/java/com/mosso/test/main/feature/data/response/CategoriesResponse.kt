@@ -1,4 +1,4 @@
-package com.mosso.test.main.feature.data.models
+package com.mosso.test.main.feature.data.response
 
 
 data class CategoriesResponse(
